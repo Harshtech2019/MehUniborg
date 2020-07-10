@@ -10,7 +10,7 @@ Pluggable [``asyncio``](https://docs.python.org/3/library/asyncio.html)
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FDc5000%2FMehUniBorg&template=https%3A%2F%2Fgithub.com%2FDc5000%2FMehUniBorg)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FHarshtech2019%2FMehUniBorg&template=https%3A%2F%2Fgithub.com%2FHarshtech2019%2FMehUniBorg)
 
 #### The Legacy Way
 Simply clone the repository and run the main file:
